@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshay Tripathi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Python+Developer;GenAI+Builder;RAG+%26+Agentic+AI;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Python+Developer;GenAI+Builder;RAG+%26+Agentic+AI;LLM+Applications;Multimodal+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,12 +24,24 @@
 
 ### 🚀 About Me
 
-I’m an AI/ML engineer passionate about building intelligent systems that solve real-world problems. My work focuses on Generative AI, LLMs, RAG, agentic workflows, multimodal AI, and production-grade Python backend systems.
+I’m an AI/ML engineer passionate about building intelligent systems that solve real-world problems. My work focuses on Generative AI, LLMs, RAG, agentic workflows, multimodal AI, and production-grade ML systems.
 
 - 🔭 Building: LLM-powered workflows, AI automation, document intelligence, and real-time AI systems
 - 🌱 Learning: advanced LLM orchestration, multimodal reasoning, and scalable inference pipelines
 - 💡 Interested in: Generative AI, NLP, backend engineering, MLOps, and AI product design
 - ⚡ Fun fact: I enjoy turning ideas into working AI systems that create real impact
+
+---
+
+### 🧩 Skills
+
+- Generative AI: LLMs, RAG, Agentic AI, Multi-Agent Systems, LLM Fine-Tuning, Model Evaluation, Prompt Engineering, Inference Pipelines, Multimodal AI, Embeddings, Vector Search
+- AI Frameworks & Models: LangChain, LangGraph, Google ADK, Hugging Face, PEFT, vLLM, VLMEvalKit, AWS Bedrock
+- Multimodal & Voice AI: VLMs, OCR, Computer Vision, Document Intelligence, Voice AI, STT/TTS, Real-Time Audio Streaming
+- AI / Data Infrastructure: FAISS, MongoDB Atlas Vector Search, Weaviate, Redis
+- Languages: Python, SQL, C++, JavaScript, Bash
+- Backend Engineering: FastAPI, AsyncIO, Celery, REST APIs, Pydantic, Microservices, WebSockets, SSE
+- Cloud / DevOps: AWS Lambda, ECR, S3, EC2, Bedrock, Docker, GitHub Actions, Linux
 
 ---
 
